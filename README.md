@@ -8,25 +8,22 @@
     <!-- Add your tech stack logos and links here -->
 </p>
 
-<div style="display: flex;">
-    <div style="flex: 1;">
-        <img src="https://github.com/morascliva/morascliva/raw/main/assets/94843082/041d1dc4-ec15-4df2-adda-e770df9200b8.png" alt="Screenshot 2023-11-11 211945" width="300" height="200" />
-    </div>
+![Screenshot 2023-11-11 211945](https://github.com/morascliva/morascliva/assets/94843082/041d1dc4-ec15-4df2-adda-e770df9200b8)
 
-    <div style="flex: 1;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=morascliva&show_icons=true&locale=en&layout=compact&theme=dark" alt="morascliva" />
-    </div>
-</div>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=morascliva&show_icons=true&locale=en&layout=compact&theme=dark" alt="morascliva" />
+</p>
 
-<div align="left">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=morascliva&show_icons=true&locale=en&theme=dark" alt="morascliva" />
-</div>
+</p>
 
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=morascliva&theme=dark" alt="morascliva" />
-    </a>
+    <img src="https://github-profile-trophy.vercel.app/?username=morascliva&theme=dark" alt="morascliva" />
+  </a>
 </p>
 
-<div align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=morascliva&theme
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=morascliva&theme=dark" alt="morascliva" />
+</p>
