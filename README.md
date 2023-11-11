@@ -9,11 +9,13 @@
     </div>
 </div>
 
-
+ <br>
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=morascliva&theme=dark" alt="morascliva" />
 </p>
+
+ <br>
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=morascliva&theme=dark" alt="morascliva" />
