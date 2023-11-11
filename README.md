@@ -8,7 +8,9 @@
         <img src="https://github-readme-stats.vercel.app/api?username=morascliva&show_icons=true&locale=en&theme=dark" alt="morascliva" />
     </div>
 </div>
+<p>This is some text.</p>
 
+<p>This is some more text.</p>
  <br>
 
 <p align="center">
