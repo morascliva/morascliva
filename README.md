@@ -8,9 +8,9 @@
     <!-- Add your tech stack logos and links here -->
 </p>
 
-<div style="display: flex; flex-wrap: nowrap;" align="left">
+<div style="display: flex;">
     <div style="flex: 1;">
-        <img src="https://example.com/path/to/your/image.png" alt="Screenshot 2023-11-11 211945" width="300" height="200" />
+        <img src="https://github.com/morascliva/morascliva/raw/main/assets/94843082/041d1dc4-ec15-4df2-adda-e770df9200b8.png" alt="Screenshot 2023-11-11 211945" width="300" height="200" />
     </div>
 
     <div style="flex: 1;">
@@ -29,5 +29,4 @@
 </p>
 
 <div align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=morascliva&theme=dark" alt="morascliva" />
-</div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=morascliva&theme
