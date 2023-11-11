@@ -5,7 +5,7 @@
 <div align="center">
     <div style="display: flex;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=morascliva&show_icons=true&locale=en&layout=compact&theme=dark" alt="morascliva" style="margin-right: 10px;" />
-        <p>        </p>
+    
         <img src="https://github-readme-stats.vercel.app/api?username=morascliva&show_icons=true&locale=en&theme=dark" alt="morascliva" />
     </div>
 </div>
