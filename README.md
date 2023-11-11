@@ -16,6 +16,6 @@
 </p>
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=morascliva&theme=darkhub" alt="morascliva" />
-    </a>
+    <img src="https://github-profile-trophy.vercel.app/?username=morascliva&theme=dark" alt="morascliva" />
+  </a>
 </p>
