@@ -8,12 +8,14 @@
     <!-- Add your tech stack logos and links here -->
 </p>
 
-<div align="left">
-    <img src="https://github.com/morascliva/morascliva/assets/94843082/041d1dc4-ec15-4df2-adda-e770df9200b8" alt="Screenshot 2023-11-11 211945" />
-</div>
+<div align="left" style="display: flex; flex-wrap: nowrap;">
+    <div style="flex: 1;">
+        <img src="https://github.com/morascliva/morascliva/assets/94843082/041d1dc4-ec15-4df2-adda-e770df9200b8" alt="Screenshot 2023-11-11 211945" />
+    </div>
 
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=morascliva&show_icons=true&locale=en&layout=compact&theme=dark" alt="morascliva" />
+    <div style="flex: 1;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=morascliva&show_icons=true&locale=en&layout=compact&theme=dark" alt="morascliva" />
+    </div>
 </div>
 
 <div align="left">
