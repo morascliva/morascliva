@@ -5,16 +5,10 @@
 <div align="center">
     <div style="display: flex;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=morascliva&show_icons=true&locale=en&layout=compact&theme=dark" alt="morascliva" style="margin-right: 10px;" />
-        <img src="https://github-readme-stats.vercel.app/api?username=morascliva&show_icons=true&locale=en&theme=dark" alt="morascliva" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=morascliva&theme=dark" alt="morascliva" />
     </div>
 </div>
 
-
- <br>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=morascliva&theme=dark" alt="morascliva" />
-</p>
 
  <br>
 <p align="left">
@@ -22,3 +16,5 @@
     <img src="https://github-profile-trophy.vercel.app/?username=morascliva&theme=dark" alt="morascliva" />
   </a>
 </p>
+
+
