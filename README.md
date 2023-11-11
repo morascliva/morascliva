@@ -1,12 +1,4 @@
-<h1 align="left">Hi there! 👋 I'm Cliva Moras</h1>
 
-<p align="left">
-    Computer Science and Engineering Student | Aspiring Software Developer
-</p>
-
-<p align="left">
-    <!-- Add your tech stack logos and links here -->
-</p>
 
 ![Screenshot 2023-11-11 211945](https://github.com/morascliva/morascliva/assets/94843082/041d1dc4-ec15-4df2-adda-e770df9200b8)
 
