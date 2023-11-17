@@ -27,3 +27,5 @@
     <img src="https://github-profile-trophy.vercel.app/?username=morascliva&theme=dark" alt="morascliva" />
   </a>
 </p>
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
