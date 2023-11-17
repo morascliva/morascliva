@@ -66,12 +66,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=scala" height="40" alt="scala logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/morascliva/morascliva/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-
