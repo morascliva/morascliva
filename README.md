@@ -4,14 +4,12 @@
 
 <h2>MY TECH PROFILE </h2>
 
-<p>Programming Languages:  Java, C, and C++</p>
-<p>Web Development:  React.js, HTML, CSS, and Node.js</p>
-
+<p>Programming Languages:  Java and JavaScript </p>
+<p>Web Development:  HTML, CSS, React.js,MongoDB,Express.js and Node.js</p>
 <p>Software and Tools:  GitHub ,Visual Studio Code , IntelliJ IDEA, MySQL , Android Studio</p>
+<p>Platform:  Web, Linux, and Windows</p>
 
-<p>Platform:  Web, Linux, and Windows.</p>
-
-<p>Soft Skills:  communication, strong management skills, creativity, critical thinking, and adaptability</p>
+<p>Soft Skills:  communication, management skills, creativity, critical thinking, and adaptability</p>
 <h2>GITHUB STATS </h2>
 <div align="center">
     <div style="display: flex;">
