@@ -22,7 +22,7 @@
 <br>
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/morascliva=ryo-ma&theme=onedark" alt="morascliva" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub" alt="morascliva" />
   </a>
 </p>
 
