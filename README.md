@@ -1,15 +1,13 @@
+![image](https://github.com/morascliva/morascliva/assets/94843082/6ac4ef6a-5758-4a8f-88b6-3176b39d335f)
 
 
-![Screenshot 2023-11-11 211945](https://github.com/morascliva/morascliva/assets/94843082/041d1dc4-ec15-4df2-adda-e770df9200b8)
+
 
 <h2>MY TECH PROFILE </h2>
 
-<p>Programming Languages:  Java and JavaScript </p>
+<p>Programming Languages:  Java ,JavaScript </p>
 <p>Web Development:  HTML, CSS, React.js,MongoDB,Express.js and Node.js</p>
-<p>Software and Tools:  GitHub ,Visual Studio Code , IntelliJ IDEA, MySQL , Android Studio</p>
-<p>Platform:  Web, Linux, and Windows</p>
 
-<p>Soft Skills:  communication, management skills, creativity, critical thinking, and adaptability</p>
 <h2>GITHUB STATS </h2>
 <div align="center">
     <div style="display: flex;">
