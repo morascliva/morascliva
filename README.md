@@ -1,9 +1,6 @@
-![image](https://github.com/morascliva/morascliva/assets/94843082/6ac4ef6a-5758-4a8f-88b6-3176b39d335f)
 
 
-
-
-<h2>MY TECH PROFILE </h2>
+<h2> TECH PROFILE </h2>
 
 <p>Programming Languages:  Java ,JavaScript </p>
 <p>Web Development:  HTML, CSS, React.js,MongoDB,Express.js and Node.js</p>
